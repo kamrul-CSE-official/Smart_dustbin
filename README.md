@@ -35,11 +35,6 @@ A modern, IoT-based smart dustbin monitoring application built with Flutter that
 - **Role-based Access** - Different views for admins, operators, and residents
 - **Data Encryption** - Secure transmission of sensitive information
 
-## 📱 Screenshots
-
-| Dashboard | Status Details | Map View | Settings |
-|-----------|---------------|----------|----------|
-| <img src="https://via.placeholder.com/200x400/4CAF50/FFFFFF?text=Dashboard" width="200"> | <img src="https://via.placeholder.com/200x400/2196F3/FFFFFF?text=Details" width="200"> | <img src="https://via.placeholder.com/200x400/FF9800/FFFFFF?text=Map+View" width="200"> | <img src="https://via.placeholder.com/200x400/9C27B0/FFFFFF?text=Settings" width="200"> |
 
 ## 🚀 Installation
 
@@ -53,5 +48,5 @@ A modern, IoT-based smart dustbin monitoring application built with Flutter that
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/smart-dustbin-app.git
+git clone https://github.com/kamrul-CSE-official/Smart_dustbin.git
 cd smart-dustbin-app
