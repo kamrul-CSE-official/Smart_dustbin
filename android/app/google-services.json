@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731816265740",
+    "project_id": "smart-53431",
+    "storage_bucket": "smart-53431.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731816265740:android:93554a6cbcb8f60b360629",
+        "android_client_info": {
+          "package_name": "com.example.smart_dustbin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYOnrJX8U8CSHZoZ4kJX6fc06NvsQs3aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
