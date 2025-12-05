@@ -8,12 +8,12 @@
 A modern, IoT-based smart dustbin monitoring application built with Flutter that provides real-time status tracking and management capabilities for intelligent waste management systems.
 
 <p align="center">
-  <img src="https://github.com/kamrul-CSE-official/Smart_dustbin/blob/main/assets/dashboard.jpeg?raw=true" alt="App Preview" width="600" height="650"/>
+  <img src="https://github.com/kamrul-CSE-official/Smart_dustbin/blob/main/assets/dashboard.jpeg?raw=true" alt="App Preview" width="450" height="650"/>
 </p>
 
 
 ## 📥 Download APK
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/kamrul-CSE-official/Smart_dustbin/releases/download/v1.0.0/smart_dustbin.apk)
+[![Download APK](https://github.com/kamrul-CSE-official/Smart_dustbin/tree/main/assets/apk)](https://github.com/kamrul-CSE-official/Smart_dustbin/tree/main/assets/apk)
 
 ## ✨ Features
 
