@@ -8,7 +8,7 @@
 A modern, IoT-based smart dustbin monitoring application built with Flutter that provides real-time status tracking and management capabilities for intelligent waste management systems.
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x450/4CAF50/FFFFFF?text=Smart+Dustbin+Dashboard+Preview" alt="App Preview" width="600"/>
+  <img src="https://github.com/kamrul-CSE-official/Smart_dustbin/blob/main/assets/dashboard.jpeg?raw=true" alt="App Preview" width="600"/>
 </p>
 
 ## ✨ Features
