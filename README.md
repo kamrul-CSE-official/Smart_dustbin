@@ -1,16 +1,57 @@
-# smart_dustbin
+# 🗑️ Smart Dustbin Management System
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-3.16+-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.2+-0175C2?logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## Getting Started
+A modern, IoT-based smart dustbin monitoring application built with Flutter that provides real-time status tracking and management capabilities for intelligent waste management systems.
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="https://via.placeholder.com/800x450/4CAF50/FFFFFF?text=Smart+Dustbin+Dashboard+Preview" alt="App Preview" width="600"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📊 Real-time Monitoring
+- **Live Status Display** - Visual indicators for dustbin capacity, connectivity, and operational status
+- **Capacity Analytics** - Track fill levels with intuitive progress indicators
+- **Location Tracking** - GPS-enabled dustbin location mapping
+- **Historical Data** - View usage patterns and collection history
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🎨 Modern UI/UX
+- **Dynamic App Bar** - Elegant collapsing header with smooth animations
+- **Dashboard View** - At-a-glance overview of all dustbins
+- **Dark/Light Theme** - Full theme support for comfortable viewing
+- **Responsive Design** - Optimized for mobile and tablet devices
+
+### 🔔 Smart Notifications
+- **Fill Level Alerts** - Get notified when dustbins reach critical capacity
+- **Maintenance Reminders** - Scheduled service notifications
+- **Collection Updates** - Real-time pickup status
+
+### 🔐 Security & Management
+- **User Authentication** - Secure login/logout system
+- **Role-based Access** - Different views for admins, operators, and residents
+- **Data Encryption** - Secure transmission of sensitive information
+
+## 📱 Screenshots
+
+| Dashboard | Status Details | Map View | Settings |
+|-----------|---------------|----------|----------|
+| <img src="https://via.placeholder.com/200x400/4CAF50/FFFFFF?text=Dashboard" width="200"> | <img src="https://via.placeholder.com/200x400/2196F3/FFFFFF?text=Details" width="200"> | <img src="https://via.placeholder.com/200x400/FF9800/FFFFFF?text=Map+View" width="200"> | <img src="https://via.placeholder.com/200x400/9C27B0/FFFFFF?text=Settings" width="200"> |
+
+## 🚀 Installation
+
+### Prerequisites
+- Flutter SDK 3.16.0 or higher
+- Dart 3.2.0 or higher
+- Android Studio / VS Code with Flutter extension
+- Firebase account (for backend services)
+
+### Steps
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/smart-dustbin-app.git
+cd smart-dustbin-app
